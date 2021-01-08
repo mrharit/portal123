@@ -27,12 +27,12 @@
                              <div class="col-md-4">
                                  <ul>
                                       <li><h3>Contact Us</h3></li>
-                                      <p>E-mail: princevworld@gmail.com</p>
-                                      <p>Mobile no. 9592133606</p>
+                                      <p>E-mail: akash123.ak94@gmail.com</p>
+                                      <p>Mobile no. 9555963568</p>
                                  </ul>
                              </div>
                          </div>
-                           <div id="footer-c"><p>Created By Prince Vishwakarma</p></div>
+                           <div id="footer-c"><p>Created By mr__harit</p></div>
     </div>       
 </div>
 </body>
